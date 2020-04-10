@@ -7,5 +7,5 @@ alert('You tend to show the same characters as a LEOPARD *^*');
 }else if(vert==='extrovert' && mvt==='outdoor' || soc==='social') {
 alert('Roarrr!!A LION');
 } else {
-alert('Wuwu!You bark often as the DOG you are(:');
+alert('Mangoose (:');
 }
