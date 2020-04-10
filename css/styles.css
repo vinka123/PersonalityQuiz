@@ -1,0 +1,21 @@
+.test-box {
+    border-top:5px solid green;
+    border-bottom:5px solid orange;
+    border-right:5px solid blue;
+    border-left:5px solid violet;
+    padding:40px;
+}
+p {
+    color: orange;
+    font-family: monospace;
+    font-size: 130%;
+}
+.sidebar {
+   float:center;
+   width:40%;
+}
+h1 {
+    color: orange;
+    background-color: black;
+    font-variant:small-caps ;
+}
